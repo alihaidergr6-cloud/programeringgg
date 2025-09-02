@@ -1,0 +1,15 @@
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\bin\Debug\net9.0\programeringgg.exe
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\bin\Debug\net9.0\programeringgg.deps.json
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\bin\Debug\net9.0\programeringgg.runtimeconfig.json
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\bin\Debug\net9.0\programeringgg.dll
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\bin\Debug\net9.0\programeringgg.pdb
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\obj\Debug\net9.0\programeringgg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\obj\Debug\net9.0\programeringgg.AssemblyInfoInputs.cache
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\obj\Debug\net9.0\programeringgg.AssemblyInfo.cs
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\obj\Debug\net9.0\programeringgg.csproj.CoreCompileInputs.cache
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\obj\Debug\net9.0\programeringgg.dll
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\obj\Debug\net9.0\refint\programeringgg.dll
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\obj\Debug\net9.0\programeringgg.pdb
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\obj\Debug\net9.0\programeringgg.genruntimeconfig.cache
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\obj\Debug\net9.0\ref\programeringgg.dll
+C:\Users\haider.ali1\Documents\programmerigggg\programeringgg\obj\Debug\net9.0\programeringgg.sourcelink.json

@@ -5,5 +5,6 @@ Console.WriteLine("Hello Hows goin");
 Console.WriteLine("hello ki hal a");
 Console.WriteLine("njs");
 Console.WriteLine("jdbj");
+bool isAlive = 3 < 16; 
 
 Console.ReadLine();
